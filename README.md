@@ -113,6 +113,4 @@ Integrate map-based pickup/drop visualization
 Include driver performance analysis
 
 Deploy to Power BI Service with sharing
-Payment Type
 
-Driver / Customer identifiers (if applicable)
